@@ -108,3 +108,39 @@ h2 {
    
 }
 
+.social-media{
+    display: flex;
+    width: 78%;
+    margin: 100px 5%;
+    padding: 50px;
+    box-shadow: 3px 3px 10px;
+    border-radius: 10px;
+    
+
+}
+
+.social-media-item {
+
+    width: 30%;
+    text-align: center;
+    
+}
+
+.social-media-item  h1{
+    font-size: 50px;
+}
+
+footer {
+    padding: 60px;
+    background-color: black;
+    text-align: center;
+
+}
+
+footer small {
+    color: white;
+}
+
+.footer-tittle {
+    color: gray;
+}
