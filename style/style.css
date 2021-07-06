@@ -25,11 +25,14 @@ h2 {
 
 .intro-tittle{
     font-size: 50px;
+    width: 80%;
    
 }
 .intro-text {
     color: gray;
     margin-bottom: 50px;
+    width: 80%;
+    line-height: 25px;
 }
 
 
@@ -68,6 +71,7 @@ h2 {
 .profile-text {
     margin-top: 50px;
     width: 40%;
+    line-height: 22px;
 }
 
 .contact-btn {
@@ -119,6 +123,7 @@ h2 {
 }
 .recipie-item p {
     text-align: justify;
+    line-height: 25px;
 }
 
 
